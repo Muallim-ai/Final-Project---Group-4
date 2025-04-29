@@ -1,4 +1,4 @@
-#STAT 315 Group Project - Group 4  
+STAT 315 Group Project - Group 4  
 Contributors:  
 1. Mohana Aljabri  
 2. Jameel Muallim  
